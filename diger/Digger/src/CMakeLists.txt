@@ -1,0 +1,1 @@
+﻿target_sources (Project PRIVATE "main.cpp" "Controller.cpp" "Board.cpp" "Creature.cpp" "Digger.cpp" "Square.cpp" "Entity.cpp" "Unmovable.cpp" "Monster.cpp" "Smartmonster.cpp" "Easymonster.cpp" "Diamond.cpp" "Rock.cpp" "Wall.cpp" "Present.cpp" "RunPresent.cpp" "TimePresent.cpp" "GunPresent.cpp" "Resources.cpp" "Menu.cpp")
