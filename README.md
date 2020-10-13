@@ -1,4 +1,4 @@
-# Digger :gold:
+# Digger :diamond:
 Diggeris a strategic, maze-based video game. FIRST project,  Object Oriented Programming and Game Development course 2020. Advisors Dr. Michal Alhanaty ,By Eitan Shalev, Yona Harel. Jerusalem.
 
 [![](https://github.com/eitanshalev/Digger/blob/main/DIGGER_GAME.gif)](http://www.youtube.com/watch?v=zQyBtQYChKc "my video")
