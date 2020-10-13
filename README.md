@@ -2,6 +2,8 @@
 Diggeris a strategic, maze-based video game. FIRST project,  Object Oriented Programming and Game Development course 2020. Advisors Dr. Michal Alhanaty ,By Eitan Shalev, Yona Harel. Jerusalem.
 
 [![](https://github.com/eitanshalev/Digger/blob/main/DIGGER_GAME.gif)](http://www.youtube.com/watch?v=zQyBtQYChKc "my video")
+
+
 Details about the project and functionality:
 The project is based on the computer game DIGGER and therefore derived all the actions that the game presents (for example after each victory in the stage the player gets an extra 20 points, how the player walks, and his graphic form, etc ...) and therefore the rules of the game are derived from the original DIGGER eraser.
 The project is based on the use of the C ++ programming language, as well as extensive use of the SFML graphic library that we studied this semester, we used it specifically to display images, animations, music, experience and user interface.)
